@@ -1,2 +1,2 @@
 # Scripts
-This repository contains scripts and system files to make every day life easier
+This repository contains system files and settings and related scripts to make everyday life easier.
